@@ -5,7 +5,7 @@ title: Psst! Wanna Monkey Patch?
 
 ![alt text ]({{ site.baseurl }}/images/monkeypatch.jpg "Psst! Wanna Monkey Patch?")
 
-#If you ever wanted to Monkey Patch Javascript here's how
+#If you ever wanted to Monkey Patch Javascript here's how...
 
 ##Step 1.
 Pop open your javascript console, alt+cmd+i (mac) / ctrl_shift+i (pc) for dev tools then select the console tab.
