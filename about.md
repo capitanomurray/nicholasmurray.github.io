@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a UI Engineer...
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+...and I like to cycle
 
 ### Contact me
 
