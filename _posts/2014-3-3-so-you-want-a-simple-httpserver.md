@@ -27,7 +27,7 @@ c:\Users\CurrentFolder>python -m SimpleHTTPServer
 
 ##Step 3.
 
-Create a new index.html page in somedir then vist http://127.0.0.1:8000/
+Create a new index.html page in somedir then visit http://127.0.0.1:8000/
 
 
 ##Step 4.
