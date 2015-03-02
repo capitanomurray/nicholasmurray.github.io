@@ -34,10 +34,10 @@ Create a new index.html page in somedir then visit http://127.0.0.1:8000/
 
 View the http requests in your terminal/console
 
-Serving HTTP on 0.0.0.0 port 8000 ...
-127.0.0.1 - - [15/Feb/2014 14:13:45] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [15/Feb/2014 14:18:38] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [15/Feb/2014 14:18:39] "GET /hello_world.gif HTTP/1.1" 200 -
+Serving HTTP on 0.0.0.0 port 8000 ...   
+127.0.0.1 - - [15/Feb/2014 14:13:45] "GET / HTTP/1.1" 200 -   
+127.0.0.1 - - [15/Feb/2014 14:18:38] "GET / HTTP/1.1" 200 -   
+127.0.0.1 - - [15/Feb/2014 14:18:39] "GET /hello_world.gif HTTP/1.1" 200 -   
 
 
 ##Step 5. 
