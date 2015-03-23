@@ -27,9 +27,9 @@ Adding the data-ng-app attribute to a html element is creating a ngApp directive
 
 ## MVC - ngModel ngView ngController
 
-### ngModel
-
 AngularJS is built in a MVC software design pattern and the building blocks are ngModel ngView and ngController.
+
+### ngModel
 
 The ngModel directive takes responsibility for managing and binding data to html elements such as a text input 
 
