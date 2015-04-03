@@ -118,6 +118,41 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  display: inline;
+}
+
+.date:before {
+  content: "\f073";
+}
+
+.date:before {
+  color: #ccc;
+  font: 1.3em FontAwesome;
+  left: 0;
+  margin-right: 5px;
+}
+
+.edit {
+  font-style: italic;
+  color: $gray;
+  display: inline;
+}
+
+.edit a {
+  font-style: italic;
+  color: $gray;
+}
+
+.edit:before {
+  content: "\f044";
+}
+
+.edit:before {
+  color: #ccc;
+  font: 1.3em FontAwesome;
+  left: 0;
+  margin-left: 10px;
+  margin-right: 5px;
 }
 
 // Specify the color of the selection
